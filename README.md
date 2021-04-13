@@ -15,10 +15,6 @@ Built using Google Maps Android Samples (from https://github.com/googlemaps/andr
 4. Open the SampleGPSApp in Android Studio
     1. In Android Studio, File > Open, then select the project
     2. Our Sample GPS applicaiton is in the folder **SampleGPSApp**
-5. Create and add a local API Key
-    1. Obtain a Google API key that's authorized to use the Maps SDK from https://console.cloud.google.com/google/maps-apis/overview?project=gothic-sequence-309818&folder=&organizationId=
-    2. Add API key to your app
-        1. In local.properties, replace YOUR_API_KEY with your obtained API key on line 
 6. Build and Run App
     1. Configure a virtual device if one has not been already
         1. Any existing devices can be seen in Tools > AVD Manager
